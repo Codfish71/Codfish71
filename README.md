@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Java, HTML,CSS, Javascript, Bootstrap
+### 🔭 I’m currently working on Java,springBoot, Angular, HTML,CSS, Javascript, Bootstrap..
+### Ping me if you need help in above techs!!
 
 
 <!--
